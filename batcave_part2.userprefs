@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\batcave\terrain\TerrainRasterizer.cs">
+    <Files>
+      <File FileName="Assets\Scripts\batcave\spline\SingleSpline.cs" Line="106" Column="46" />
+      <File FileName="Assets\Scripts\batcave\spline\ContinuousSpline.cs" Line="43" Column="33" />
+      <File FileName="Assets\Scripts\batcave\terrain\TerrainRasterizer.cs" Line="83" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
